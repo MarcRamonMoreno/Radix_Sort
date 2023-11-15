@@ -18,20 +18,6 @@ Installation
     Ensure that the CUDA Toolkit is installed on your system.
     Clone this repository or download the source code.
 
-Compilation
-
-To compile the program, use the nvcc compiler included with the CUDA Toolkit. Example command:
-
-nvcc -o radix_sort radix_sort.cu
-
-Usage
-
-Run the compiled executable and follow the prompts to input the size of the array and its elements. Example:
-
-bash
-
-./radix_sort
-
 Code Structure
 
     plus_scan: A device function for performing an exclusive scan, used in the sorting process.
