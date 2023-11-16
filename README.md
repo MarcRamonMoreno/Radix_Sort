@@ -1,4 +1,4 @@
-CUDA Radix Sort Program
+# CUDA Radix Sort Program
 Overview
 
 This program implements a radix sort algorithm using CUDA, making it suitable for sorting large arrays of unsigned integers on NVIDIA GPUs. Radix sort is a non-comparative integer sorting algorithm that sorts data with integer keys by grouping keys by individual digits that share the same significant position and value.
