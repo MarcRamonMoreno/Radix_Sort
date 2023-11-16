@@ -30,3 +30,6 @@ Limitations
     Currently handles only arrays of unsigned int.
     Requires manual input for array size and elements, which might not be practical for very large arrays.
     Error handling in the code is minimal and should be expanded for production use.
+
+Licence
+     GNU GENERAL PUBLIC LICENSE
